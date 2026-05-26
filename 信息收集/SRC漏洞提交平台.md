@@ -12,11 +12,11 @@
     - 收录漏洞
       - 事件型——高危
       - 通用型漏洞——中危及以上、10个以上的案例
-- - 教育（教育SRC）
-  - 教育 SRC 是面向全国高校师生，倡导高校网络空间安全建设
-  - 平台地址：https://src.sjtu.edu.cn
-- 私企（漏洞盒子、补天）
-  - 漏洞盒子上海斗象信息科技——平台地址：https://www.vulbox.com
-  - 补天漏洞奇安信集团——平台地址：https://www.butian.net
-- 企业自己的SRC
+  - 教育（教育SRC）
+    - 教育 SRC 是面向全国高校师生，倡导高校网络空间安全建设
+    - 平台地址：https://src.sjtu.edu.cn
+  - 私企（漏洞盒子、补天）
+    - 漏洞盒子上海斗象信息科技——平台地址：https://www.vulbox.com
+    - 补天漏洞奇安信集团——平台地址：https://www.butian.net
+  - 企业自己的SRC
   - 地址导航：https://www.anquanke.com/src/
