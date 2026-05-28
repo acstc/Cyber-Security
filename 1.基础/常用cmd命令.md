@@ -1,0 +1,5 @@
+- whoami：查看当前用户名
+- ipconfig：查看网卡信息
+- shutdown -s -t 0：0秒后关机
+-  net user [username] [password] /add：增加一个用户名为[username]和密码为[password]的新用户
+- type [file_name]：查看file_name文件内容
